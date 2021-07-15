@@ -574,6 +574,16 @@
     outline: none;
 }
 
+.like-person {
+    font-size: 12px;
+}
+
+.like-person:hover {
+    color: #0a66c2;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 
 
 
