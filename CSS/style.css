@@ -417,7 +417,7 @@
 .sorting-line {
     height: 0.1px;
     background-color: rgb(163, 163, 163);
-    width: 66%;
+    width: 62%;
     margin-top: 10px;
 }
 
@@ -436,8 +436,49 @@
 }
 
 
+/* Second-Bar-Post */
 
+.second-bar-posttop {
+    font-size: 14px;
+}
 
+.card-top:hover {
+    cursor: pointer;
+}
+
+.second-bar-posttop > a > b:hover {
+    color: #0a66c2;
+}
+
+.fa-ellipsis-h:hover {
+    background-color: rgb(238, 243, 248);
+    border-radius: 50px;
+}
+
+.card-body-img {
+    width: 100%;
+}
+
+.card-body-text {
+    font-size: 14px; 
+    margin: 4px 25px 15px 25px;
+}
+
+.card-body-img:hover {
+    cursor: pointer;
+}
+
+.card-footer-second {
+    border-top: 1px solid rgb(196, 196, 196);
+    color: rgb(116, 116, 116); 
+    font-size: 16px;
+}
+
+.second-bar-button:hover {
+    background-color: rgb(238, 243, 248);
+    cursor: pointer;
+    border-radius: 10px;
+}
 
 
 
