@@ -4,6 +4,12 @@ I coded ***LinkedIn-Clone*** to improve myself. It was a turning point in my sof
 
 ![page](https://i.hizliresim.com/puwr993.png)
 
+
+## Live Demo
+
+*[Live Demo](https://zehraikizler.github.io/LinkedIn-Clone/)
+
+
 ## Used Technologies 
 
 + HTML
