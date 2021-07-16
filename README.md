@@ -34,4 +34,4 @@ I coded LinkedIn-Clone to improve myself. It was a turning point in my software 
 
 ## Live Demo
 
-*[Live Demo]()*
+*[Live Demo](https://zehraikizler.github.io/LinkedIn-Clone/)*
