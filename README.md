@@ -2,7 +2,7 @@
 
 I coded ***LinkedIn-Clone*** to improve myself. It was a turning point in my software world for me. First responsive design I've been able to do.
 
-[url=https://www.hizliresim.com/puwr993][img]https://i.hizliresim.com/puwr993.png[/img][/url]
+![](https://www.hizliresim.com/puwr993)
 
 ## Used Technologies 
 
