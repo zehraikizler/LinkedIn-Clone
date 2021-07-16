@@ -1,6 +1,6 @@
 # LinkedIn-Clone
 
-I coded LinkedIn-Clone to improve myself. It was a turning point in my software world for me. First responsive design I've been able to do.
+I coded ***LinkedIn-Clone*** to improve myself. It was a turning point in my software world for me. First responsive design I've been able to do.
 
 
 ## Used Technologies 
@@ -12,26 +12,22 @@ I coded LinkedIn-Clone to improve myself. It was a turning point in my software 
 
 ## resources that I have used
 
-[LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/)
 
-[W3Schools](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
 
-[Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
-[Bootstrap Icon](https://icons.getbootstrap.com/)
+- [Bootstrap Icon](https://icons.getbootstrap.com/)
 
-[Font Awesome](https://fontawesome.com/icons)
+- [Font Awesome](https://fontawesome.com/icons)
 
-[Lorem Pixum](https://picsum.photos/)
+- [Lorem Pixum](https://picsum.photos/)
 
-[Lorem İpsum](https://tr.lipsum.com/)
+- [Lorem İpsum](https://tr.lipsum.com/)
 
-[Shutterstock](https://www.shutterstock.com/tr/)
+- [Shutterstock](https://www.shutterstock.com/tr/)
 
-[patika.dev](https://www.patika.dev/)
+- [patika.dev](https://www.patika.dev/)
 
 
-
-## Live Demo
-
-*[Live Demo](https://zehraikizler.github.io/LinkedIn-Clone/)*
